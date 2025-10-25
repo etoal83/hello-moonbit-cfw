@@ -5,7 +5,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "hello-moonbit-cfw",
-	"main": "src/index.js",
+	"main": "index.js",
 	"compatibility_date": "2025-10-08",
 	"observability": {
 		"enabled": true
