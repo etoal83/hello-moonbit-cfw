@@ -6,6 +6,8 @@ A Cloudflare Workers application written in [MoonBit](https://www.moonbitlang.co
 
 This project showcases the integration of MoonBit language with Cloudflare Workers. MoonBit functions are compiled to JavaScript and invoked by the Worker's fetch handler to respond to HTTP requests.
 
+**Live Demo:** https://hello-moonbit-cfw.etoal83.workers.dev/
+
 ## Quick Start
 
 ```bash
